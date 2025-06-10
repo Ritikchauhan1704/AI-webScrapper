@@ -39,7 +39,7 @@ ai-webscraper/
 1. Clone the repository:
 ```bash
 git clone https://github.com/Ritikchauhan1704/AI-webScrapper.git
-cd ai-webscraper
+cd AI-webScrapper
 ```
 
 2. Install dependencies:
